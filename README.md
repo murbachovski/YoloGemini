@@ -32,12 +32,12 @@ pip install -r requirements.txt
 
 # 웹 구성
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/bb237c58-53e5-4a7e-975a-ff504aa4684e" width="700">
   <img src="https://github.com/user-attachments/assets/a70c70d7-57d9-4907-8806-4e98b26b9caa" width="700">
   <img src="https://github.com/user-attachments/assets/93685bbe-1136-4e18-b20b-5a9952e7c237" width="700">
   <img src="https://github.com/user-attachments/assets/8b9bef0d-7d25-4eee-999c-7ec33fe6d586" width="700">
   <img src="https://github.com/user-attachments/assets/f0912d8f-ec16-4b41-a718-dcf7dfa48157" width="700">
   <img src="https://github.com/user-attachments/assets/b2df780a-36a8-4153-acbf-a52e737f303e" width="700">
-  <img src="https://github.com/user-attachments/assets/bb237c58-53e5-4a7e-975a-ff504aa4684e" width="700">
 </p>
 
 # Ngrok
@@ -69,5 +69,6 @@ pip install pipreqs
 # pipreqs 참고 문서
 [PyPI pipreqs](https://pypi.org/project/pipreqs/)<br>
 
-# Gemini 참고 문서
-[위키독스](https://wikidocs.net/254713)<br>
+# YoloGemini 참고 문서
+[YoloGemini](https://youtu.be/wVPQzJgnUC4?si=3H6xq1bqheE7S6bq)<br>
+
