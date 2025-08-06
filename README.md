@@ -32,10 +32,12 @@ pip install -r requirements.txt
 
 # 웹 구성
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ffbd3e93-bcb7-4f46-8466-545a694ed88a" width="700">
-  <img src="https://github.com/user-attachments/assets/3fc20c67-4e21-4ff4-a9ad-9245c3fff5e1" width="700">
-  <img src="https://github.com/user-attachments/assets/7c329c53-5910-4551-892a-6294c0d7ecf6" width="700">
-  <img src="https://github.com/user-attachments/assets/e5604b42-bb12-4306-a3c4-22a32d4fd327" width="700">
+  <img src="https://github.com/user-attachments/assets/a70c70d7-57d9-4907-8806-4e98b26b9caa" width="700">
+  <img src="https://github.com/user-attachments/assets/93685bbe-1136-4e18-b20b-5a9952e7c237" width="700">
+  <img src="https://github.com/user-attachments/assets/8b9bef0d-7d25-4eee-999c-7ec33fe6d586" width="700">
+  <img src="https://github.com/user-attachments/assets/f0912d8f-ec16-4b41-a718-dcf7dfa48157" width="700">
+  <img src="https://github.com/user-attachments/assets/b2df780a-36a8-4153-acbf-a52e737f303e" width="700">
+  <img src="https://github.com/user-attachments/assets/bb237c58-53e5-4a7e-975a-ff504aa4684e" width="700">
 </p>
 
 # Ngrok
